@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/samplescene.unity
+- path: Assets/Scenes/MapGenDebug.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

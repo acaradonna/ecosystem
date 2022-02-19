@@ -1,20 +1,31 @@
 ﻿<Properties StartupConfiguration="{6B7F7012-FCB1-9818-61F7-E09BA0898AE9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TerrainMapGenerator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MenuController.cs">
     <Files>
-      <File FileName="Assets/Scripts/TilePlacer.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/TerrainMapGenerator.cs" Line="61" Column="6" />
+      <File FileName="Assets/Scripts/TilePlacer.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/TerrainMapGenerator.cs" Line="70" Column="57" />
+      <File FileName=".gitignore" Line="87" Column="35" />
+      <File FileName="Library/PackageCache/com.unity.2d.animation@3.2.2/Runtime/SpriteSkinUtility.cs" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="50" Column="1" />
+      <File FileName="Assets/Scripts/ViewController.cs" Line="24" Column="39" />
+      <File FileName="Assets/Scripts/SliderValueToText.cs" Line="20" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Ecosystem" expanded="True" selected="True" />
+          <Node name="Ecosystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MenuController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d6ee9eac-01db-42ee-bfdf-66a75113294e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9b0af79-81ff-46b6-974b-1f0fbab01212" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
